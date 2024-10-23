@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 import './popup.css';
-import logoSvg from '../../img/G__logo.svg.png';
+// import logoSvg from 'https://www.iconbolt.com/iconsets/social-media-logos/email-gmail-logo-mail-social-social-media.svg';
 import Swal from 'sweetalert2'
 
 function PopUp() {
@@ -126,7 +126,7 @@ function PopUp() {
     <div className="PopUp">
         <div className="form">
             <form onSubmit = { handleSubmit } id = "forms">
-                <img src={logoSvg} alt="logo" className="logo" id="mainlogo" />
+                <img src="https://www.svgrepo.com/show/303552/google-g-2015-logo.svg" alt="logo" className="logo" id="mainlogo" />
                 <p className="VerText">To view the load you need to go through verification via Gmail</p>
                 <div className='rightSec'>
                     <div className = "inputBlock" style = {ereva ? { display: 'none' } : { display: 'block' } }>
