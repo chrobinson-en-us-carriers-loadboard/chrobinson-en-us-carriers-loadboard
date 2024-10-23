@@ -1,5 +1,5 @@
 import React from "react";
-import './main.css';
+import './allpage.css';
 import PopUp from "./PopUp/popup";
 
 function Main() {
