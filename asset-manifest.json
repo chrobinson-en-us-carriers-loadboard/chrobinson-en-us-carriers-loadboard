@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.523df42e.css",
-    "main.js": "/static/js/main.1d460001.js",
-    "index.html": "/index.html",
-    "main.523df42e.css.map": "/static/css/main.523df42e.css.map",
-    "main.1d460001.js.map": "/static/js/main.1d460001.js.map"
+    "main.css": "/chrobinson-en-us-carriers-loadboard/static/css/main.523df42e.css",
+    "main.js": "/chrobinson-en-us-carriers-loadboard/static/js/main.09827ada.js",
+    "index.html": "/chrobinson-en-us-carriers-loadboard/index.html",
+    "main.523df42e.css.map": "/chrobinson-en-us-carriers-loadboard/static/css/main.523df42e.css.map",
+    "main.09827ada.js.map": "/chrobinson-en-us-carriers-loadboard/static/js/main.09827ada.js.map"
   },
   "entrypoints": [
     "static/css/main.523df42e.css",
-    "static/js/main.1d460001.js"
+    "static/js/main.09827ada.js"
   ]
 }
