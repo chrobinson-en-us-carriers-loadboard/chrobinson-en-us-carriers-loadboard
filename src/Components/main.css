@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+    height: 100%;
+}
+body {
+    font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    color: #212529;
+    background-color: #fff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+#root, .App, .Main {
+    height: 100%;
+}
+#root {
+    overflow: hidden;
+}
+iframe {
+    border: none;
+}
+.Main {
+    position: relative;
+}
